@@ -1,5 +1,15 @@
 # Hola mundo con TypeScript y Netlify functions
 
+
+### [1. Iniciando proyecto](#1-iniciando-proyecto-de-typescript)
+### [2. Subirlo a GitHub](#2-añadirlo-a-github)
+### [3. Crear gratis una cuenta en Netlify](#3-crear-cuenta-gratis-en-netlify)
+### [4. Crear proyecto en Netlify](#4-crear-proyecto-en-netlify)
+### [5. Preparando el entorno para escribir las funciones](#5-preparando-nuestro-entorno-para-escribir-las-funciones)
+### [6. Programar función en TypeScript](#6-crear-función-en-typescript)
+### [7. Desplegar en Netlify](#7-desplegar-en-netlify)
+### [8. Probar](#8-probar)
+<br>
 Netlify te permite desplegar funciones sin servidor en AWS, las famosas **AWS’s serverless Lambda functions** sin necesidad de tener una cuenta en Amazon, de forma que podemos tener un proyecto completo en Netlify, no sólo las funciones como Backend, si no también el Frontend.
 
 Las funciones Lambda de AWS abren un mundo de posibilidades, ya que podemos correr código de servidor sin tener un servidor dedicado y además nuestro código será escalable dentro de la arquitectura de AWS.
