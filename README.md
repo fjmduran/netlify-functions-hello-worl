@@ -81,15 +81,17 @@ Para desplegar en Netlify tan fácil como subir los cambios a nuestro repositori
 
 Si nos vamos a nuestra cuenta de Netlify y entramos al sitio que creamos en el punto 4 veremos los distintos despliegues en la zona que rodeo en amarillo:
 
-![resumen de sitio en Netlify](W:\Local\Programacion\Angular\fjmd\src\assets\blog\netlify-typescript\panel-sitio.jpg "Imagen del sitio en Netlify")
+![resumen de sitio en Netlify](https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-function-typescript%2Fpanel-sitio.webp?alt=media&token=de9a2f1a-08c0-4982-9707-ca3ab9376a85 "Imagen del sitio en Netlify")
 
 Si pulsamos en la pestaña de *Functions* veremos nuestra función desplegada y pulsando sobre ella accederemos a sus características como son el endpoint y el panel de log
 
-![resumen de función en Netlify](W:\Local\Programacion\Angular\fjmd\src\assets\blog\netlify-typescript\panel-function.jpg "Imagen de la función en Netlify")
+![resumen de función en Netlify](https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-function-typescript%2Fpanel-function.webp?alt=media&token=70bf49d4-d4c4-4d72-af7f-9dd859c7d8f0 "Imagen de la función en Netlify")
 
 ## 8. Probar
 
 Tan fácil como escribir el endpoint en nuestro navegador y nos devolverá el `Hola mundo` que escribimos en el body de las respuesta de la función en el punto 6.
+
+Puedes descargarte el código de mi [github][github]
 
 Saludos,
 
@@ -97,3 +99,4 @@ Saludos,
 [articulo-git]: [https://fjmduran.com/blog/git_github]
 [sigin-netlify]:[https://app.netlify.com/]
 [background-functions]:[https://docs.netlify.com/functions/background-functions/]
+[github]:[https://github.com/fjmduran/netlify-functions-hello-worl]
