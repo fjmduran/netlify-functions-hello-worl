@@ -81,11 +81,11 @@ Para desplegar en Netlify tan fácil como subir los cambios a nuestro repositori
 
 Si nos vamos a nuestra cuenta de Netlify y entramos al sitio que creamos en el punto 4 veremos los distintos despliegues en la zona que rodeo en amarillo:
 
-![resumen de sitio en Netlify](https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-function-typescript%2Fpanel-sitio.webp?alt=media&token=de9a2f1a-08c0-4982-9707-ca3ab9376a85 "Imagen del sitio en Netlify")
+![resumen de sitio en Netlify](https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-function-typescript%2Fpanel-sitio.webp?alt=media&token=e9825984-f66a-4849-8dec-67308346b153 "Imagen del sitio en Netlify")
 
 Si pulsamos en la pestaña de *Functions* veremos nuestra función desplegada y pulsando sobre ella accederemos a sus características como son el endpoint y el panel de log
 
-![resumen de función en Netlify](https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-function-typescript%2Fpanel-function.webp?alt=media&token=70bf49d4-d4c4-4d72-af7f-9dd859c7d8f0 "Imagen de la función en Netlify")
+![resumen de función en Netlify](https://firebasestorage.googleapis.com/v0/b/siguientenivel150116.appspot.com/o/Blog%2Fnetlify-function-typescript%2Fpanel-function.webp?alt=media&token=086d1434-af81-4f1a-ad1e-2d38f68a2429 "Imagen de la función en Netlify")
 
 ## 8. Probar
 
