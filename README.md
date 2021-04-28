@@ -8,11 +8,11 @@ Por defecto, todas la funciones que despleguemos en Netlify tendrán las siguien
 - Se alojarán en us-east-1 AWS Lambda region
 - Contarán con 1024MB de memoria
 - Un límite de 10 segundos de ejecución para funciones síncronas
-- Y 15 minutos de límite de ejecución para funciones en segundo plano ([background functions][background-functions]) que explicaré en otro post
+- Y 15 minutos de límite de ejecución para funciones en segundo plano [background functions](https://docs.netlify.com/functions/background-functions/) que explicaré en otro post
 
 ## 1. Iniciando proyecto de TypeScript
 
-Para iniciar un proyecto de TypeScript ve a mi [artículo][articulo-node] donde lo explico, es muy rápido y fácil
+Para iniciar un proyecto de TypeScript ve a mi [artículo](https://fjmduran.com/blog/node_ts) donde lo explico, es muy rápido y fácil
 
 ## 2. Añadirlo a GitHub
 
@@ -28,11 +28,11 @@ A continuación:
 6. Cambiamos a la rama *main* con: `git branch -M main`
 7. Subimos los fichero a nuestro repositorio remoto con: `git push -u origin main`
 
-Si quieres más información acerca de git puedes echarle un vistazo a [este artículo][articulo-git]
+Si quieres más información acerca de git puedes echarle un vistazo a [este artículo](https://fjmduran.com/blog/git_github)
 
 ## 3. Crear cuenta gratis en Netlify
 
-Para crearnos una cuenta gratuita vamos a esta [web][sigin-netlify] y elegimos la forma de login que más nos guste, en mi caso elegí hacerlo con GitHub.
+Para crearnos una cuenta gratuita vamos a esta [web](https://app.netlify.com/) y elegimos la forma de login que más nos guste, en mi caso elegí hacerlo con GitHub.
 
 ## 4. Crear proyecto en Netlify
 
@@ -91,12 +91,6 @@ Si pulsamos en la pestaña de *Functions* veremos nuestra función desplegada y 
 
 Tan fácil como escribir el endpoint en nuestro navegador y nos devolverá el `Hola mundo` que escribimos en el body de las respuesta de la función en el punto 6.
 
-Puedes descargarte el código de mi [github][github]
+Puedes descargarte el código de mi [github](https://github.com/fjmduran/netlify-functions-hello-worl)
 
 Saludos,
-
-[articulo-node]: [https://fjmduran.com/blog/node_ts]
-[articulo-git]: [https://fjmduran.com/blog/git_github]
-[sigin-netlify]:[https://app.netlify.com/]
-[background-functions]:[https://docs.netlify.com/functions/background-functions/]
-[github]:[https://github.com/fjmduran/netlify-functions-hello-worl]
